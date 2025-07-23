@@ -12,7 +12,6 @@ if (isset($_SESSION['user_id'])) {
 include 'components/add_cart.php';
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
