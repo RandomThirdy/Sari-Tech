@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RandomThirdy/Sari-Tech/main/images/sarisaritech.png" alt="Sari-Tech Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/RandomThirdy/Sari-Tech/main/images/preview.png" alt="Sari-Tech Banner" width="600"/>
 </p>
 
 <h1 align="center">Sari-Tech – Your E-commerce Solution</h1>
