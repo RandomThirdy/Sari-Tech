@@ -4,7 +4,6 @@ require_once('libs/fpdf.php');
 
 if (isset($_GET['order_id'])) {
     $order_id = intval($_GET['order_id']);
-
     // Get order details
     $get_order = $conn->prepare("SELECT * FROM orders WHERE id = ?");
     $get_order->execute([$order_id]);
