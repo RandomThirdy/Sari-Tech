@@ -106,7 +106,6 @@ if (isset($_GET['export_pdf'])) {
     $pdf->DrawDashedLine(10, $pdf->GetY()+2, 200, $pdf->GetY()+2);
     $pdf->Ln(5);
 
-    // Summary Section
     $pdf->SetFont('Courier', 'B', 12);
     $pdf->Cell(0, 8, 'SUMMARY', 0, 1, 'L');
     $pdf->SetFont('Courier', '', 10);
