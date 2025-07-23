@@ -123,7 +123,7 @@ if(isset($_SESSION['user_id'])){
       box-shadow: 0 10px 20px rgba(0,0,0,0.1);
    }
 
-   /* Steps Section */
+   /* Steps-Section */
    .steps {
       padding: 6rem 2rem;
       background: white;
