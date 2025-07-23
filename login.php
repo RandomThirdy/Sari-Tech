@@ -41,7 +41,7 @@ if(isset($_POST['submit'])){
    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
    <link rel="stylesheet" href="css/style.css?v=1.0">
 
-   <style>
+<style>
     :root{
       --yellow:#fed330;
       --red:#e74c3c;
