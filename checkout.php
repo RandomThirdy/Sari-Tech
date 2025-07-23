@@ -26,9 +26,7 @@ if (isset($_POST['submit'])) {
     $address = filter_var($address, FILTER_SANITIZE_STRING);
     $total_products = $_POST['total_products'];
     $total_price = $_POST['total_price'];
-
     $payment_details = isset($_POST['payment_details']) ? filter_var($_POST['payment_details'], FILTER_SANITIZE_STRING) : '';
-
     $check_cart = $conn->prepare("SELECT * FROM cart WHERE user_id = ?");
     $check_cart->execute([$user_id]);
     
