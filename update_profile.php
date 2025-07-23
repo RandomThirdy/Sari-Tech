@@ -48,6 +48,7 @@ if(isset($_POST['submit'])){
       }
    }
    
+   
    $empty_pass = 'da39a3ee5e6b4b0d3255bfef95601890afd80709';
    $select_prev_pass = $conn->prepare("SELECT password FROM `users` WHERE id = ?");
    $select_prev_pass->execute([$user_id]);
