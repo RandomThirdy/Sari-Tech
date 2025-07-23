@@ -37,7 +37,7 @@ if (isset($_POST['pay_now'])) { // Check if the "Pay Now" button was clicked
 
    // Redirect the user to the order success page with the transaction ID
    header('location:order_success.php?transaction_id=' . $transaction_id);
-   exit; // Stop further script execution
+   exit; 
 }
 
 
