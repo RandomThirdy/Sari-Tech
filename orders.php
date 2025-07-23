@@ -27,6 +27,7 @@ if(isset($_SESSION['user_id'])){
    <link rel="stylesheet" href="css/style.css?v=1.0">
 
 </head>
+
 <body>
    
 <?php include 'components/user_header.php'; ?>
