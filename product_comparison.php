@@ -9,7 +9,6 @@ if (isset($_SESSION['user_id'])) {
     $user_id = '';
 }
 
-
 $product1 = null;
 $product2 = null;
 
