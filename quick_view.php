@@ -30,7 +30,8 @@ include 'components/add_cart.php';
 
 </head>
 <body>
-   
+
+
 <?php include 'components/user_header.php'; ?>
 
 <section class="quick-view">
