@@ -15,7 +15,6 @@ function displayPriceComparison($product_id) {
    $stmt->bind_param("i", $product_id);
    $stmt->execute();
    $result = $stmt->get_result()->fetch_assoc();
-   
    if($result) {
       ?>
       <div class="price-comparison">
