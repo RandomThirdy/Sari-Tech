@@ -10,7 +10,6 @@ if (!isset($_SESSION['user_id'])) {
 
 $user_id = $_SESSION['user_id'];
 
-// Modify the query to get all orders for the user
 $get_orders = $conn->prepare("SELECT * FROM orders WHERE user_id = ? ORDER BY placed_on DESC");
 $get_orders->execute([$user_id]);
 
