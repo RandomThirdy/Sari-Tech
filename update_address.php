@@ -11,6 +11,7 @@ if(isset($_SESSION['user_id'])){
    header('location:home.php');
 };
 
+
 if(isset($_POST['submit'])){
    // Collect and sanitize individual address components
    $unit = filter_var($_POST['unit'], FILTER_SANITIZE_STRING);
