@@ -24,13 +24,21 @@ This GitHub repository houses the source code and assets for the **Sari-Tech** w
 
 ## ✨ Features
 
-- ✅ User-friendly and intuitive interface  
-- 📱 Fully responsive design for mobile and desktop users  
-- 🔒 Secure user authentication and profile management  
-- 🛍️ Dynamic product catalog with search and filter options  
-- 🛒 Shopping cart functionality for easy checkout  
-- 📦 Order management system for users and administrators  
-- 💳 Integration with payment gateways for secure transactions  
+- ✅ **User-friendly and intuitive interface**
+- 📱 **Fully responsive design for mobile and desktop users**
+- 🔒 **Secure user authentication and profile management**
+- 🛍️ **Dynamic product catalog with search and filter options**
+- 🔎 **Product comparison functionality**
+- 🛒 **Shopping cart functionality for easy checkout**
+- 📦 **Order management system for users and administrators**
+- 💳 **Integration with payment gateways for secure transactions**
+- 🧾 **Receipt generation and PDF download**
+- 📊 **Admin dashboard with statistics and management tools**
+- 🗄️ **Product archiving and archive view**
+- 🏠 **User profile and address update**
+- ✉️ **Contact and messaging system**
+- 🧩 **Modular components for header, footer, and cart**
+- 🎨 **Modern UI with CSS and JavaScript enhancements**
 
 ---
 
