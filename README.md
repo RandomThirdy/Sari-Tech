@@ -1,3 +1,5 @@
+![Website Screenshot](images/preview.png)
+
 <h1 align="center">Sari-Tech – Your E-commerce Solution</h1>
 
 ## Description
